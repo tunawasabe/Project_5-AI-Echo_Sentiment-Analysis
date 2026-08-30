@@ -9,22 +9,21 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from wordcloud import WordCloud
 import joblib
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 # ======================================================
 # 1️⃣ MODEL LOADING
 # ======================================================
-model = joblib.load(
-    "Project_5-AI-Echo\model\Model_log-new_data.pkl"
-)
+model = joblib.load(PROJECT_ROOT / "model" / "Model_log-new_data.pkl")
 
 # ======================================================
 # 2️⃣ LOAD DATA
 # ======================================================
 @st.cache_data
 def load_data():
-    return pd.read_csv(
-        "Project_5-AI-Echo\dataset\cleaned_senti_mapped_data.csv"
-    )
+    return pd.read_csv(PROJECT_ROOT / "dataset" / "cleaned_senti_mapped_data.csv")
 
 review_df = load_data()
 
